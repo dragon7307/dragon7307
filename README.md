@@ -1,6 +1,4 @@
- <b>dragon-like-games  </b> 
- <br>-About me 
-<br>Hello I'm an experienced c# programmer and game developer
+A Software Engineer with a passion for C#!
 
 <!---
 dragon7307/dragon7307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
